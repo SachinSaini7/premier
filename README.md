@@ -6,6 +6,10 @@ A stylish, responsive, and minimal website built to showcase creative work — m
 
 ---
 
+## 🎥 Demo / Preview
+
+![Demo of Premier Website](./overview/Project_GIF.gif)
+
 ## ✨ Features
 
 - Fully responsive design (desktop, tablet, mobile)  
@@ -48,8 +52,6 @@ Copy code
 ![Homepage view](./overview/home.jpg)  
 *Homepage view with banner and hero section*
 
-![Hero Section](./overview/home-2.jpg)  
-
 ![Models section](./overview/home-3.jpg)  
 *Grid / layout of models*
 
@@ -63,10 +65,6 @@ Copy code
 *Footer, contact, info blocks*
 
 ---
-
-## 🎥 Demo / Preview
-
-![Demo of Premier Website](./overview/Project_GIF.gif)
 
 
 🚀 Getting Started (Local Setup)
